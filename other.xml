@@ -1,0 +1,95 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="11.1.0" last-modified="1541146938000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="true" />
+    <property name="ColorChooser.RecentColors" value="148-203-137-255,,,86-105-115-255,,,55-89-93-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.47522235" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.SavedEditorTheme" value="_@user_Material Lighter" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="GrepConsole.ProfileDetail" value="222" />
+    <property name="InstalledPluginsSearchHistory" value="tslin&#10;grep console&#10;MATERIAL" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="import&#10;shortc" />
+    <property name="LAST_INJECTED_LANGUAGE" value="Properties" />
+    <property name="MTTabsHeight" value="26" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="15" />
+    <property name="PLUGIN_FILTER" value="material th&#10;material&#10;materia&#10;android&#10;androi" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15136719" />
+    <property name="SearchEveryWhereHistory" value="consolehandler&#10;printstream&#10;object&#10;A&#10;AssetM" />
+    <property name="SettingsSearchHistory" value="tslint&#10;live&#10;emmet&#10;typescript&#10;statist" />
+    <property name="SplitFileEditor.Proportion" value="0.6652778" />
+    <property name="TrendingPluginsSearchHistory" value="clion&#10;c++&#10;pug&#10;tslint&#10;Typescr" />
+    <property name="android-component-compatibility-check" value="1538295619146" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="mt.oceanic" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.searchHistory" value="Project&#10;P&#10;ProjectB&#10;ProjectBV&#10;box2d" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="D:\java projects\Project TDS\libgdx" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.183" value="16827bc65c6" />
+    <property name="evlsprt2.183" value="1683dc25020" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="F:/Programming/Java/Projects/netty-test&#10;F:/Programming/Java/Projects/AceChat2/build.gradle&#10;F:/Programming/Java/Projects/AceChat2&#10;F:/Programming/Java/Projects/AceChat&#10;F:/Programming/Java/Projects/AceChat/AceChat.iml&#10;C:/Users/Chris/.IntelliJIdea2018.2/config/options&#10;F:/Programming/NodeJS&#10;F:/Programming/Java/Projects/tds&#10;C:/Program Files/Java/jdk-11&#10;C:/Users/Chris/.PyCharm2018.2/config/settings.jar&#10;F:/Programming/Java/Projects/ImNotARobot/build.gradle&#10;F:/Programming/Java/Projects/ImNotARobot/gradle/wrapper&#10;F:/Programming/Java/Projects/ImNotARobot/gradle&#10;F:/Programming/Java/Projects/ImNotARobot&#10;F:/Programming/Java/Projects/ImNotARobot/ImNotARobot.iml&#10;F:/Programming/Java/Libraries/AndroidSDK&#10;F:/&#10;D:/java projects/MInecraft 2D libgdx/MInecraft 2D libgdx.iml&#10;D:/java projects/minecraft-2d/build.gradle&#10;D:/mc servers/programmingserver/plugins&#10;C:/Users/Chris/Desktop/programmingserver/plugins&#10;D:/java projects/sandboxgame&#10;C:/Program Files/Git/bin/git.exe&#10;D:/java projects/MInecraft 2D libgdx/build.gradle&#10;D:/java projects/bomberman/build.gradle&#10;D:/java projects/bomberman&#10;C:/Users/Chris/Desktop&#10;D:/java projects/sandboxgame/build.gradle&#10;C:/Users/Chris/Desktop/skyblock try/plugins&#10;D:/java projects/Project TDS/libgdx idea/core/src/META-INF/MANIFEST.MF" />
+    <property name="file.gist.reindex.count" value="3499" />
+    <property name="fileTypeChangedCounter" value="40" />
+    <property name="gradle.runner.text.console_str" value="false" />
+    <property name="gradle.test.runner.text.console_str" value="false" />
+    <property name="ideavim.statistics.timestamp" value="1547902035488" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="1078" />
+    <property name="last.imported.location" value="F:/Programming/Java/Projects/AceChat2/build.gradle" />
+    <property name="last.used.gradle.home" value="F:/Programma's/Gradle" />
+    <property name="lastTip" value="40" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+    <property name="selected.color.option.type" value="CONSOLE_BLUE_BRIGHT_OUTPUT" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="structural.search.match.case" value="true" />
+    <property name="structural.search.recursive" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="F:\Programming\Python\FirstPython\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="F:\Programming\Python\FirstPython\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="F:\Programming\Python\FirstPython\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
