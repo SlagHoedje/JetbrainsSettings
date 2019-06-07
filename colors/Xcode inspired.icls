@@ -224,7 +224,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="1d8711" />
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -396,6 +396,9 @@
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
