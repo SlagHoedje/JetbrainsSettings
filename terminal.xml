@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Windows\System32\cmd.exe&quot; /k &quot;&quot;%CMDER_ROOT%\vendor\init.bat&quot;&quot;" />
+    <option name="myShellPath" value="&quot;C:\windows\system32\bash.exe&quot; -c zsh -cur_console:p" />
   </component>
 </application>
