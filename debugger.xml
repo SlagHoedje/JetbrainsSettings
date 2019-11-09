@@ -66,9 +66,15 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="kotlin_debugger">
+      <debugger id="ObjectiveC">
         <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="true" />
+          <option name="LLDB_NATVIS_DIAGNOSTICS_LEVEL" value="Errors only" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
