@@ -5,8 +5,8 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="en_US" type="PLAIN_TEXT" />
       <mapping pattern="buildVersion" type="PLAIN_TEXT" />
+      <mapping pattern="en_US" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping pattern="config" type="TOML" />
     </extensionMap>
