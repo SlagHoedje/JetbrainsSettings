@@ -1,7 +1,8 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools" debuggerKind="CUSTOM_GDB" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\Chris\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" customMakePath="make" customCCompilerPath="gcc" customCXXCompilerPath="g++" hostId="85859f5e-4871-4e2f-af87-4a5641928e96" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
