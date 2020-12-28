@@ -4,7 +4,7 @@
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="Macro.Format and save ESLint">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl dead_grave" />
   </action>
   <action id="QuickChangeScheme" />
 </keymap>
