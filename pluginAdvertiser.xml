@@ -732,6 +732,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lang">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.demonwav.minecraft-dev" />
+              <option name="myPluginName" value="Minecraft Development" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.li">
           <value>
             <plugin>
@@ -792,6 +800,22 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nbt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.demonwav.minecraft-dev" />
+              <option name="myPluginName" value="Minecraft Development" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nbtt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.demonwav.minecraft-dev" />
+              <option name="myPluginName" value="Minecraft Development" />
             </plugin>
           </value>
         </entry>
@@ -1352,6 +1376,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*_at.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.demonwav.minecraft-dev" />
+              <option name="myPluginName" value="Minecraft Development" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1798,6 +1830,11 @@
                   <entry key="kotlin-language">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="minecraft">
+                    <value>
+                      <FeaturePluginData displayName="Minecraft" pluginName="Minecraft Development" pluginId="com.demonwav.minecraft-dev" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
