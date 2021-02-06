@@ -947,6 +947,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mk">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mod">
           <value>
             <plugin>
@@ -1822,6 +1830,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="GNUmakefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Gopkg.lock">
           <value>
             <plugin>
@@ -1916,6 +1932,14 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="makefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
             </plugin>
           </value>
         </entry>
@@ -2021,6 +2045,11 @@
                   <entry key="CLionNativeAppRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" />
+                    </value>
+                  </entry>
+                  <entry key="CLion_CoreDump">
+                    <value>
+                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="CLion_Remote">
