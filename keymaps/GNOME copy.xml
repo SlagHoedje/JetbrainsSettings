@@ -1,4 +1,11 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="Macro.Format and save ESLint">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
