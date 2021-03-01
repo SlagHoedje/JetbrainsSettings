@@ -4,12 +4,13 @@
       <mapping pattern="obsolete_code" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="rust-toolchain" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="ld" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
