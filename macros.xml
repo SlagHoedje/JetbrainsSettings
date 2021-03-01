@@ -9,5 +9,11 @@
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Format and save Prettier">
+      <action id="ReformatCode" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="ReformatWithPrettierAction" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
